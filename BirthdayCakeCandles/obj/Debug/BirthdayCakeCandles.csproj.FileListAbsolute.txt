@@ -1,0 +1,6 @@
+D:\Synechron Training\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe.config
+D:\Synechron Training\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe
+D:\Synechron Training\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.pdb
+D:\Synechron Training\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csprojResolveAssemblyReference.cache
+D:\Synechron Training\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.exe
+D:\Synechron Training\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.pdb
