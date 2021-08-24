@@ -1,0 +1,5 @@
+D:\Synechron Training\HackerRank\StairCase\StairCase\bin\Debug\StairCase.exe.config
+D:\Synechron Training\HackerRank\StairCase\StairCase\bin\Debug\StairCase.exe
+D:\Synechron Training\HackerRank\StairCase\StairCase\bin\Debug\StairCase.pdb
+D:\Synechron Training\HackerRank\StairCase\StairCase\obj\Debug\StairCase.exe
+D:\Synechron Training\HackerRank\StairCase\StairCase\obj\Debug\StairCase.pdb
