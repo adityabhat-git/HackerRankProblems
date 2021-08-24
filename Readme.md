@@ -1,1 +1,1 @@
-The main branch only contains this file.
+Thi branch contains the solution to DiagonalDifference problem in Hacker Rank
