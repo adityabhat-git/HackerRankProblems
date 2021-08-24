@@ -1,0 +1,5 @@
+D:\Synechron Training\HackerRank\miniMaxSum\miniMaxSum\bin\Debug\miniMaxSum.exe.config
+D:\Synechron Training\HackerRank\miniMaxSum\miniMaxSum\bin\Debug\miniMaxSum.exe
+D:\Synechron Training\HackerRank\miniMaxSum\miniMaxSum\bin\Debug\miniMaxSum.pdb
+D:\Synechron Training\HackerRank\miniMaxSum\miniMaxSum\obj\Debug\miniMaxSum.exe
+D:\Synechron Training\HackerRank\miniMaxSum\miniMaxSum\obj\Debug\miniMaxSum.pdb

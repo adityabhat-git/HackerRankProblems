@@ -1,1 +1,1 @@
-The main branch only contains this file.
+The branch contains the solution to minmaxSum problem of HackerRank
