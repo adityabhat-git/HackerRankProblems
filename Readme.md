@@ -1,1 +1,1 @@
-The main branch only contains this file.
+The branch contains the solution for Grading problem in HackerRank.

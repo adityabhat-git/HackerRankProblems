@@ -1,0 +1,6 @@
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\GradingProblems\bin\Debug\GradingProblems.exe.config
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\GradingProblems\bin\Debug\GradingProblems.exe
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\GradingProblems\bin\Debug\GradingProblems.pdb
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\GradingProblems\obj\Debug\GradingProblems.csprojResolveAssemblyReference.cache
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\GradingProblems\obj\Debug\GradingProblems.exe
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\GradingProblems\obj\Debug\GradingProblems.pdb
