@@ -1,0 +1,6 @@
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\TimeConversion\bin\Debug\TimeConversion.exe.config
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\TimeConversion\obj\Debug\TimeConversion.csprojResolveAssemblyReference.cache
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\TimeConversion\bin\Debug\TimeConversion.exe
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\TimeConversion\bin\Debug\TimeConversion.pdb
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\TimeConversion\obj\Debug\TimeConversion.exe
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\TimeConversion\obj\Debug\TimeConversion.pdb

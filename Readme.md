@@ -1,1 +1,1 @@
-The main branch only contains this file.
+This branch contains the solution to the TimeConversion HackerRank problem
