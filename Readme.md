@@ -1,1 +1,1 @@
-The main branch only contains this file.
+The branch contains the changes for Comparing Triplets of HackerRank problem

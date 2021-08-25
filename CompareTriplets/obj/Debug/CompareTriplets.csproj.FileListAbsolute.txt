@@ -1,0 +1,6 @@
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\CompareTriplets\bin\Debug\CompareTriplets.exe.config
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\CompareTriplets\bin\Debug\CompareTriplets.exe
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\CompareTriplets\bin\Debug\CompareTriplets.pdb
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\CompareTriplets\obj\Debug\CompareTriplets.csprojResolveAssemblyReference.cache
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\CompareTriplets\obj\Debug\CompareTriplets.exe
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\CompareTriplets\obj\Debug\CompareTriplets.pdb
