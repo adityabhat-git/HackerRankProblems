@@ -1,0 +1,6 @@
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\AppleOrangeProblem\bin\Debug\AppleOrangeProblem.exe.config
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\AppleOrangeProblem\bin\Debug\AppleOrangeProblem.exe
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\AppleOrangeProblem\bin\Debug\AppleOrangeProblem.pdb
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\AppleOrangeProblem\obj\Debug\AppleOrangeProblem.csprojResolveAssemblyReference.cache
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\AppleOrangeProblem\obj\Debug\AppleOrangeProblem.exe
+C:\Users\aditya.bhat\Documents\GitHub\HackerRankProblems\AppleOrangeProblem\obj\Debug\AppleOrangeProblem.pdb
